@@ -1,0 +1,43 @@
+:root {
+  /* font sizes */
+  --font-size-xs: 14px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 23px;
+  --font-size-3xl: 28px;
+  --font-size-4xl: 32px;
+  --font-size-5xl: 40px;
+
+  /* font weight */
+  --font-weight-5: 500;
+  --font-weight-6: 600;
+  --font-weight-7: 700;
+  --font-weight-8: 800;
+  --font-weight-9: 900;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fbfbfb;
+  --color-gray-200: #7f858e;
+  --color-black: #000;
+  /* 3A3985 */
+  --secondary-color: #7549ad;
+  --hover-color: #4544a7;
+  --primary-color: #3a3985;
+  --highlight: #ffc501;
+  --blue-shadow: #00A6AF;
+
+  /* border radiuses */
+  --br-sm: 8px;
+  --br-md: 16px;
+  --br-lg: 100px;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
